@@ -1,0 +1,8 @@
+Pada perancangan halaman web interface home, kami menampilkan beberapa informasi. Dari home sendiri memberikan 
+informasi penjelasan bahwa dalam website kami telah memberikan penjelasan bahwa web kami sebagai portal atau
+gerbang dalam penampungan develop game. Yang artinya bahwa nantinya setiap developer game dapat menaruh atau meng-
+upload file hasil karya developer berupa game yang nantinya bisa diperkenalkan melalui website kami. Dengan fitur
+pengguna web kami dapat memainkan game tersebut secara langsung. Kami menyediakan fitur menu toko game, artinya untuk 
+user dapat membeli game pada website kami yang tidak dipublikasikan secara gratis. Selain itu user juga dapat memainkan game 
+secara langsung pada menu game. Untuk menu Top-Up ini merupakan rencana dari kelompok kami untuk menyediakan layanan
+top-up seperti diamon mobile legend yang terhubung melalui Dana atau layanan transaksi online lainnya.
