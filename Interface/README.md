@@ -1,4 +1,4 @@
-### Penjelasan Tampilan UX
+# Penjelasan Tampilan UX
 
 Pada perancangan halaman web interface **Home**, kami menampilkan beberapa informasi.
 
