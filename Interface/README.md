@@ -1,5 +1,6 @@
-# Penjelasan Tampilan UX
+![screenshot](https://github.com/AndraSatria2018/PPL4624/raw/main/Interface/Rancangan_Interface_dengan_Figma.png)
 
+# Penjelasan Tampilan UX
 Pada perancangan halaman web interface **Home**, kami menampilkan beberapa informasi.
 
 Pada halaman **Home** diberikan penjelasan bahwa web kami berperan sebagai portal atau gerbang dalam penampungan game development. Yang artinya bahwa nantinya setiap developer game dapat meng-upload file hasil karya developer berupa game yang nantinya bisa diperkenalkan melalui website kami. 
