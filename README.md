@@ -9,7 +9,7 @@ Repository ini adalah salah satu syarat untuk menyelesaikan tugas mata kuliah Pr
 ## Anggota Kelompok
 | Nama                  | NIM               | Role | 
 | --------------------- |:-----------------:|------------------|
-| Andra Satria Hermawan |                   | Ketua & Programmer|
+| Andra Satria Hermawan |  A11.2018.11194   | Ketua & Programmer|
 | Tifan Dwi Avianto     | A11.2017.10629    | Project Manager   |
 | Danu Hartanto         |                   | UI/UX Designer    |
 | Anton Saputro         |                   | Programmer        |
