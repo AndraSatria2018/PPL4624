@@ -1,5 +1,16 @@
-# PPL4624
+# Kelompok 1 PPL4624.SC
 
-Repository untuk Proyek Perangkat Lunak
-Kelas A11.4624SC - Kelompok 1
-Tema Game Publisher
+## Deskripsi
+Repository ini adalah salah satu syarat untuk menyelesaikan tugas mata kuliah Proyek Perangkat Lunak di Universitas Dian Nuswantoro.
+* Kelas : A11.4624.SC
+* Kelompok : 1
+* Tema : Game Publisher
+
+## Anggota Kelompok
+| Nama                  | NIM               | Role | 
+| --------------------- |:-----------------:|------------------|
+| Andra Satria Hermawan |                   | Ketua & Programmer|
+| Tifan Dwi Avianto     | A11.2017.10629    | Project Manager   |
+| Danu Hartanto         |                   | UI/UX Designer    |
+| Anton Saputro         |                   | Programmer        |
+| Bayu Pangestu         |                   | System Analyst    |
