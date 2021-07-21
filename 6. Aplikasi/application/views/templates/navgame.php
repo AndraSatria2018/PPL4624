@@ -19,7 +19,7 @@
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9.7.1/dist/sweetalert2.all.min.js"></script>
 
 
-    <title>GameINA - Web Game Portal Indonesia</title>
+    <title>Game-Indo - Web Game Portal Indonesia</title>
 </head>
 
 <body>

@@ -12,7 +12,7 @@
                 <div class="col-md-6 mt-md-0 mt-3">
 
                     <!-- Content -->
-                    <h3 class="text-uppercase footer-text">Tentang GameINA.</h3>
+                    <h3 class="text-uppercase footer-text">Tentang Game-Indo.</h3>
                     <p>GameINA Adalah portal game pertama di indonesia, yang menyediakan fasilitas untuk para
                         developer
                         indonesia. agar lebih berkarya dan diapresiasi.</p>

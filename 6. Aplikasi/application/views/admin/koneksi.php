@@ -1,5 +1,5 @@
 <?php
-$koneksi = mysqli_connect("localhost", "root", "", "gameina");
+$koneksi = mysqli_connect("localhost", "root", "", "ta_ppl");
 
 // Check connection
 if (mysqli_connect_errno()) {
